@@ -6,7 +6,7 @@ This project focuses on analyzing car pricing data to uncover trends, patterns, 
 
 - **`car_pricing_analisys.ipynb`**: The main Jupyter Notebook containing the code for data cleaning, analysis, and visualization.
 - **`clean_cardb.csv`**: A cleaned version of the car pricing dataset (generated during the analysis).
-- **`raw_cardb.csv`**: Directory containing the raw car pricing dataset (if applicable).
+- **`raw_cardb.csv`**: The raw car pricing dataset.
 
 ## Features
 
